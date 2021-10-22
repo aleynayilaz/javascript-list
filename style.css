@@ -21,6 +21,7 @@ html, body{
     border: 1px solid black;
     vertical-align: middle;
     font-size: 30px;
+    background-color:cadetblue;
 }
 .to-dos{
     margin-top: 25px;
